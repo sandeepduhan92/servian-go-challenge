@@ -1,0 +1,7 @@
+"DbUser" = "sandeepdb"
+"DbPassword" = "sandeep123"
+"DbName" = "app"
+"DbPort" = "5432"
+"DbHost" = "localhost"
+"ListenHost" = "localhost"
+"ListenPort" = "3000"
